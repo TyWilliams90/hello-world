@@ -27,9 +27,3 @@ Training repo to learn how to use Github. Hello World!
 ![Family-Pool](https://github.com/TyWilliams90/hello-world/assets/156339418/e32a6a12-d0d9-4fce-a384-6276f697025b)
 
 ![Hailey-Dad-Chair](https://github.com/TyWilliams90/hello-world/assets/156339418/b47cb386-b080-48d5-bfef-9580bcf812cc)
-
-## Github Command
-| Command | Description |
-| - | - |
-| `git status` | Status of Git |
-| `git diff` | Difference between git files |
