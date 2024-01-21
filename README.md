@@ -1,5 +1,5 @@
 # hello-world Repository 👋
-Training repo to learn how to use Github. Hello World!
+Training repo to learn how to use Github. Can't wait to get started. Hello World!
 
 ## About Me 👨‍🦱
  Random bullet points on my life.
@@ -19,11 +19,3 @@ Training repo to learn how to use Github. Hello World!
 -  [ ] csharp basics + 3 projects
 -  [ ] raspberry pi basics + 1 project
 -  [ ] AI terminology & basics 
-
-## Family Photos 🖼️
-
-<!-- COMMENT: I should try and resize these photos to be smaller when I get time. -->
-
-![Family-Pool](https://github.com/TyWilliams90/hello-world/assets/156339418/e32a6a12-d0d9-4fce-a384-6276f697025b)
-
-![Hailey-Dad-Chair](https://github.com/TyWilliams90/hello-world/assets/156339418/b47cb386-b080-48d5-bfef-9580bcf812cc)
