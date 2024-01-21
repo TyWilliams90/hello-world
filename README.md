@@ -1,5 +1,5 @@
 # hello-world Repository 👋
-Training repo to learn how to use Github. Hello World!
+Training repo to learn how to use Github. Can't wait to get started. Hello World!
 
 ## About Me 👨‍🦱
  Random bullet points on my life.
