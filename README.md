@@ -23,3 +23,6 @@ Training repo to learn how to use Github. Can't wait to get started. Hello World
 | raspberry pi basics | Not Started |
 | 1 raspberry pi project | Not Started |
 | AI terminology & basics | Not Started | 
+
+## To-Do List
+- [ ] Wrap Abby's Birthday Present
