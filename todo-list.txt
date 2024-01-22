@@ -1,8 +1,8 @@
 To-do List
 
-* Wrap Abby's birthday present
+*DONE* Wrap Abby's birthday present
 
-* Plan summer road trip
+*DONE* Plan summer road trip
 
 * Create San Antonio Road Trip
 
