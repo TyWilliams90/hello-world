@@ -1,9 +1,10 @@
-To-do List
+TO-DO LIST
 
-*DONE* Wrap Abby's birthday present
-
-*DONE* Plan summer road trip
 
 * Create San Antonio Road Trip
-
 * Read up on r/ProgrammingBuddies sub
+
+
+COMPLETED TO-DO LIST
+*DONE* Plan summer road trip
+*DONE* Wrap Abby's birthday present
