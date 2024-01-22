@@ -13,9 +13,13 @@ Training repo to learn how to use Github. Can't wait to get started. Hello World
   * Promoted to Manager in 2023
     * Miss coding 
       
-## 2024 learning Subjects 👨‍🎓
--  [ ] github basics
--  [ ] git basics without github
--  [ ] csharp basics + 3 projects
--  [ ] raspberry pi basics + 1 project
--  [ ] AI terminology & basics 
+## 2024 learning Goals 👨‍🎓
+| goal | status |
+| --- | --- |
+| github basics | In Progress |
+| git basics | Not Started |
+| csharp basics | In Progress |
+| 3 csharp project | Not Started |
+| raspberry pi basics | Not Started |
+| 1 raspberry pi project | Not Started |
+| AI terminology & basics | Not Started | 
