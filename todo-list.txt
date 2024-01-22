@@ -1,9 +1,6 @@
 TO-DO LIST
-
-
 * Create San Antonio Road Trip
 * Read up on r/ProgrammingBuddies sub
-
 
 COMPLETED TO-DO LIST
 *DONE* Plan summer road trip
