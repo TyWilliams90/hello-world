@@ -1,1 +1,1 @@
-- [ ] Wrap Abby's birthday present
+- [x] Wrap Abby's birthday present
