@@ -2,6 +2,6 @@
 * Wrap Abby's birthday present
 * Create Summer Road Trip Itinerary
 * Create San Antonio Road Trip Itinerary
-* Read up on r/ProgrammingBuddies sub
 
 ---  Completed  ---
+* Read up on r/ProgrammingBuddies sub
