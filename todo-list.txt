@@ -1,7 +1,7 @@
 ---  To-Do  ---
-* Wrap Abby's birthday present
-* Create Summer Road Trip Itinerary
-* Create San Antonio Road Trip Itinerary
 
 ---  Completed  ---
 * Read up on r/ProgrammingBuddies sub
+* Wrap Abby's birthday present
+* Create Summer Road Trip Itinerary
+* Create San Antonio Road Trip Itinerary
